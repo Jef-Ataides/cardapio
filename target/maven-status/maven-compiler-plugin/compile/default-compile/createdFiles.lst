@@ -1,0 +1,8 @@
+br\com\cardapio\models\Food.class
+br\com\cardapio\exceptions\GlobalExceptionHandler.class
+br\com\cardapio\dto\FoodResponseDTO.class
+br\com\cardapio\repositories\FoodRepository.class
+br\com\cardapio\exceptions\ValidationErrorResponse.class
+br\com\cardapio\CardapioApplication.class
+br\com\cardapio\dto\FoodRequestDTO.class
+br\com\cardapio\controllers\FoodController.class
